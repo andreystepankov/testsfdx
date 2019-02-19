@@ -1,0 +1,32 @@
+[
+    {
+        "sobject": "Contact",
+        "saveRefs": true,
+        "files": [
+            "Contact.json"
+        ]
+    },
+    {
+        "sobject": "BoatType__c",
+        "saveRefs": true,
+        "files": [
+            "BoatType__c.json"
+        ]
+    },
+    {
+        "sobject": "Boat__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "Boat__c.json"
+        ]
+    },
+    {
+        "sobject": "BoatReview__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "BoatReview__c.json"
+        ]
+    }
+]

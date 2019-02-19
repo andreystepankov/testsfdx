@@ -1,0 +1,13 @@
+.THIS.scrollerSize {
+    height: 250px;
+    text-align: center;
+}
+
+.THIS.warning {
+    position: absolute;
+    margin: left 50%;
+}
+
+.THIS.review {
+    padding: 16px;
+}

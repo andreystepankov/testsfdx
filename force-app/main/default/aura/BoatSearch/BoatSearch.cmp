@@ -1,0 +1,10 @@
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes">
+    <aura:attribute name="boats" type="Boat__c[]"/>
+    <aura:handler name="FormSubmit" 
+                  event="c:FormSubmit" 
+                  action="{!c.onFormSubmit}" 
+                  phase="capture"/>
+    
+	<c:BoatSearchForm/>
+    <c:BoatSearchResults aura:id="resultsCmp"/>
+</aura:component>

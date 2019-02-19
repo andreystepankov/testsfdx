@@ -1,0 +1,33 @@
+({
+	onInit : function(component, event, helper) {
+		 component.find("service").getNewRecord(
+            "BoatReview__c", // sObject type (entityAPIName)
+            null,      // recordTypeId
+            false,     // skip cache?
+            $A.getCallback(function() {
+                var rec = component.get("v.boatReview");
+                var error = component.get("v.recordError");
+                var boat = component.get("v.boat");
+                if(error || (rec === null)) {
+                    console.log("Error initializing record template: " + error);
+                }
+                else {
+                    component.set("v.boatReview.Boat__c",boat.Id);
+                }
+            })
+        );
+	},
+    
+    showToastOrAlert : function(title, message) {
+        var resultsToast = $A.get("e.force:showToast");
+        if (resultsToast) {
+            resultsToast.setParams({
+                "title": title,
+                "message": message
+            });
+            resultsToast.fire(); 
+        } else {
+            alert(message);
+        }
+    }
+})

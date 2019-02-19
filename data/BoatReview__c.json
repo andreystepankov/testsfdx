@@ -1,0 +1,120 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "BoatReview__c",
+                "referenceId": "BoatReview__cRef1"
+            },
+            "Name": "124",
+            "Comment__c": "<p>124</p>",
+            "Boat__c" : "@Boat__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "BoatReview__c",
+                "referenceId": "BoatReview__cRef2"
+            },
+            "Name": "1236",
+            "Comment__c": "<p>127</p>",
+            "Rating__c": "4",
+            "Boat__c": "@Boat__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "BoatReview__c",
+                "referenceId": "BoatReview__cRef3"
+            },
+            "Name": "1234",
+            "Comment__c": "<p>1243</p>",
+            "Rating__c": "4",
+            "Boat__c": "@Boat__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "BoatReview__c",
+                "referenceId": "BoatReview__cRef4"
+            },
+            "Name": "44",
+            "Comment__c": "<p>44</p>",
+            "Rating__c": "3",
+            "Boat__c": "@Boat__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "BoatReview__c",
+                "referenceId": "BoatReview__cRef5"
+            },
+            "Name": "1",
+            "Comment__c": "<p>1</p>",
+            "Rating__c": "2",
+            "Boat__c": "@Boat__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "BoatReview__c",
+                "referenceId": "BoatReview__cRef6"
+            },
+            "Name": "4521",
+            "Comment__c": "<p>123451</p>",
+            "Boat__c": "@Boat__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "BoatReview__c",
+                "referenceId": "BoatReview__cRef7"
+            },
+            "Name": "123",
+            "Comment__c": "<p>123</p>",
+            "Rating__c": "5",
+            "Boat__c": "@Boat__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "BoatReview__c",
+                "referenceId": "BoatReview__cRef8"
+            },
+            "Name": "128927",
+            "Comment__c": "<p>2892474</p>",
+            "Boat__c": "@Boat__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "BoatReview__c",
+                "referenceId": "BoatReview__cRef9"
+            },
+            "Name": "5",
+            "Comment__c": "<p>5</p>",
+            "Rating__c": "5",
+            "Boat__c": "@Boat__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "BoatReview__c",
+                "referenceId": "BoatReview__cRef10"
+            },
+            "Name": "34",
+            "Comment__c": "<p>43534</p>",
+            "Boat__c": "@Boat__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "BoatReview__c",
+                "referenceId": "BoatReview__cRef11"
+            },
+            "Name": "11",
+            "Comment__c": "<p>11</p>",
+            "Rating__c": "4",
+            "Boat__c": "@Boat__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "BoatReview__c",
+                "referenceId": "BoatReview__cRef12"
+            },
+            "Name": "2",
+            "Comment__c": "<p>2</p>",
+            "Rating__c": "2",
+            "Boat__c": "@Boat__cRef1"
+        }
+    ]
+}

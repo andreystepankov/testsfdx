@@ -1,0 +1,51 @@
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes">
+    <aura:attribute name="boat" type="Boat__c"/>
+    
+    <div style="background: red">
+    <lightning:card iconName="utility:anchor" class="cardbackground">
+        <aura:set attribute="title">
+            {!v.boat.Contact__r.Name}'s boat
+        </aura:set>
+		<aura:set attribute="actions">
+            <aura:if isTrue='{!v.showButton}'>
+            <lightning:button label="Full Details" onclick="{!c.onFullDetails}"/>
+            </aura:if>
+        </aura:set>
+
+        <!--lightning:icon  size="small" padding="around-small"/-->
+    	<lightning:layout class="">
+        	<lightning:layoutItem class="" padding="around-small" 
+                                  flexibility="grow">
+                <div class="slds-p-horizontal--small">
+                        <div class="boatproperty">
+                            <span class="label">Boat Name:</span>
+                            <span><ui:outputText value="{!v.boat.Name}"/></span>
+                        </div>
+                        <div class="boatproperty">
+                            <span class="label">Type:</span>
+                            <span><ui:outputText value="{!v.boat.BoatType__r.Name}"/></span>
+                        </div>
+                        <div class="boatproperty">
+                            <span class="label">Length:</span>
+                            <span><ui:outputText value="{!v.boat.Length__c}"/> ft</span>
+                        </div>
+                        <div class="boatproperty">
+                            <span class="label">Est. Price:</span>
+                            <span><lightning:formattedNumber value="{!v.boat.Price__c}" currencyCode="USD" style="currency" currencyDisplayAs="symbol"/></span>
+                        </div>
+                        <div class="boatproperty">
+                            <span class="label">Description:</span>
+                            <span><ui:outputRichText class="slds-text-longform" value="{!v.boat.Description__c}"/></span>
+                        </div>
+                    </div>
+
+            </lightning:layoutItem>
+            <lightning:layoutItem class="" padding="around-small" 
+                                  flexibility="grow">
+                <div class="imageview" 
+                     style="{!'background-image:url(\'' + v.boat.Picture__c + '\')'}"/>
+            </lightning:layoutItem>
+        </lightning:layout>
+    </lightning:card>
+    </div>
+</aura:component>

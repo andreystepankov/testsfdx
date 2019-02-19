@@ -1,0 +1,114 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Boat__c",
+                "referenceId": "Boat__cRef1"
+            },
+            "Name": "Dipsy Doodle",
+            "Contact__c": "@ContactRef1",
+            "Picture__c": "/resource/Sailboats/sailboat1.png",
+            "Geolocation__Latitude__s": 38.875052,
+            "Geolocation__Longitude__s": -77.049531
+        },
+        {
+            "attributes": {
+                "type": "Boat__c",
+                "referenceId": "Boat__cRef2"
+            },
+            "Name": "Gallifrey Falls",
+            "Contact__c": "@ContactRef2",
+            "Picture__c": "/resource/Sailboats/sailboat2.png",
+            "Geolocation__Latitude__s": 39.282735,
+            "Geolocation__Longitude__s": -76.6170849
+        },
+        {
+            "attributes": {
+                "type": "Boat__c",
+                "referenceId": "Boat__cRef3"
+            },
+            "Name": "Geronimo",
+            "Contact__c": "@ContactRef3",
+            "Picture__c": "/resource/Sailboats/skiboat1.png",
+            "Geolocation__Latitude__s": 42.3565323,
+            "Geolocation__Longitude__s": -71.0524035
+        },
+        {
+            "attributes": {
+                "type": "Boat__c",
+                "referenceId": "Boat__cRef4"
+            },
+            "Name": "All In The Family",
+            "Contact__c": "@ContactRef4",
+            "Picture__c": "/resource/Sailboats/sportboat1.png",
+            "Geolocation__Latitude__s": 25.0831569,
+            "Geolocation__Longitude__s": -77.3248236
+        },
+        {
+            "attributes": {
+                "type": "Boat__c",
+                "referenceId": "Boat__cRef5"
+            },
+            "Name": "The Old Man and the Sea",
+            "Contact__c": "@ContactRef5",
+            "Picture__c": "/resource/Sailboats/skiboat2.png",
+            "Geolocation__Latitude__s": 41.0671996,
+            "Geolocation__Longitude__s": -71.9345349
+        },
+        {
+            "attributes": {
+                "type": "Boat__c",
+                "referenceId": "Boat__cRef6"
+            },
+            "Name": "The Enterprise",
+            "Contact__c": "@ContactRef6",
+            "Picture__c": "/resource/Sailboats/yacht1.png",
+            "Geolocation__Latitude__s": 29.229702,
+            "Geolocation__Longitude__s": -81.0111687
+        },
+        {
+            "attributes": {
+                "type": "Boat__c",
+                "referenceId": "Boat__cRef7"
+            },
+            "Name": "Excelsior",
+            "Contact__c": "@ContactRef7",
+            "Picture__c": "/resource/Sailboats/yacht2.png",
+            "Geolocation__Latitude__s": 35.8937555,
+            "Geolocation__Longitude__s": -75.6461981
+        },
+        {
+            "attributes": {
+                "type": "Boat__c",
+                "referenceId": "Boat__cRef8"
+            },
+            "Name": "Big Billy Bass",
+            "Contact__c": "@ContactRef8",
+            "Picture__c": "/resource/Houseboats/fishingboat1.png",
+            "Geolocation__Latitude__s": 36.8315019,
+            "Geolocation__Longitude__s": -75.9792301
+        },
+        {
+            "attributes": {
+                "type": "Boat__c",
+                "referenceId": "Boat__cRef9"
+            },
+            "Name": "Home Suite Home",
+            "Contact__c": "@ContactRef9",
+            "Picture__c": "/resource/Houseboats/houseboat1.png",
+            "Geolocation__Latitude__s": 21.1412251,
+            "Geolocation__Longitude__s": -86.7767266
+        },
+        {
+            "attributes": {
+                "type": "Boat__c",
+                "referenceId": "Boat__cRef10"
+            },
+            "Name": "Man Cave",
+            "Contact__c": "@ContactRef10",
+            "Picture__c": "/resource/Houseboats/houseboat2.png",
+            "Geolocation__Latitude__s": 38.689841,
+            "Geolocation__Longitude__s": -75.0781053
+        }
+    ]
+}

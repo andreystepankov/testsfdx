@@ -1,0 +1,37 @@
+<aura:component controller="BoatSearchFormBackController" 
+                implements="force:appHostable,flexipage:availableForAllPageTypes">
+    <aura:attribute name="options" type="List"/>
+    <aura:attribute name="defaultVal" type="String"/>
+    <aura:attribute name="isNewSupported" type="Boolean" default="true"/>
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
+    <aura:registerEvent name="FormSubmit" type="c:FormSubmit"/>
+    
+    <div class="slds-card" style="background: #e8e8e8; padding: 16px">
+        <div class="slds-m-around--medium">
+            <lightning:formattedText class="slds-text-heading_label" value="Find a Boat"/>
+        </div>
+        
+        <lightning:layout horizontalAlign="center" >
+            <lightning:layoutItem>
+                <lightning:combobox aura:id="combo"
+                                    name="boatType"
+                                    value="{!v.defaultVal}"
+                                    variant="label-hidden"
+                                    placeholder="All types"
+                                    options="{!v.options}"
+                                    onchange="{!c.handleChange}"/>
+            </lightning:layoutItem>
+            <lightning:layoutItem>
+                <lightning:button variant="brand"
+                                  label="Search"
+                                  onclick="{!c.onFormSubmit}"/>
+            </lightning:layoutItem>
+            <lightning:layoutItem >
+                <aura:if isTrue="{!v.isNewSupported}">
+                    <lightning:button label="New"
+                                      onclick="{!c.handleClickNew}"/>
+                </aura:if>
+            </lightning:layoutItem>
+        </lightning:layout>
+    </div>
+</aura:component>

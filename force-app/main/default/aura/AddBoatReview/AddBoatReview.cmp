@@ -1,0 +1,35 @@
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes">
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
+    <aura:attribute name="boat" type="Boat__c"/>
+    <aura:attribute name="boatReview" type="BoatReview__c"/>
+    <aura:attribute name="recordError" type="String" access="private"/>
+    <aura:handler name="change" value="{!v.boat}" action="{!c.doInit}"/>
+    <aura:registerEvent name="boatReviewAdded"
+                        type="c:BoatReviewAdded"/>
+    
+    <force:recordData aura:id="service"
+                      fields="Id, 
+                              Name, 
+                              Comment__c, 
+                              Boat__c, 
+                              Rating__c"
+                      targetFields="{!v.boatReview}"
+                      targetError="{!v.recordError}"
+                      recordUpdated="{!c.onRecordUpdated}" />
+    
+    <lightning:layout multipleRows="true">
+        <lightning:layoutItem size="12" padding="around-small">
+            <lightning:input aura:id="revTitle" name="title" label="Title" value="{!v.boatReview.Name}"/>
+        </lightning:layoutItem>
+        <lightning:layoutItem size="12" padding="around-small">
+            <label class="slds-form-element__label" for="input-id-01">Comment</label>
+            <lightning:inputRichText aura:id="revDescription" value="{!v.boatReview.Comment__c}" disabledCategories="FORMAT_FONT"/>
+        </lightning:layoutItem>
+        <lightning:layoutItem size="12" padding="around-small">
+            <c:FiveStarRating aura:id="addrating" value="{!v.boatReview.Rating__c}" readOnly="false"/>
+        </lightning:layoutItem>
+        <lightning:layoutItem size="12" class="slds-align--absolute-center">
+            <lightning:button iconName="utility:save" label="Submit" onclick="{!c.onSave}"/>
+        </lightning:layoutItem>
+    </lightning:layout>
+</aura:component>

@@ -1,0 +1,3 @@
+<aura:event type="COMPONENT" description="transfering boats on search click to results component">
+    <aura:attribute name="formData" type="Object"/>
+</aura:event>
