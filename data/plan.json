@@ -2,6 +2,7 @@
     {
         "sobject": "Contact",
         "saveRefs": true,
+        "resolveRefs": true,
         "files": [
             "Contact.json"
         ]
@@ -9,6 +10,7 @@
     {
         "sobject": "BoatType__c",
         "saveRefs": true,
+        "resolveRefs": true,
         "files": [
             "BoatType__c.json"
         ]

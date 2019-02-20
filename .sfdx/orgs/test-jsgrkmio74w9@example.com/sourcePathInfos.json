@@ -1,0 +1,1397 @@
+[
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550587699067,
+            "changeTime": 1550587699067,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550587699067,
+            "changeTime": 1550587699067,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550587699104,
+            "changeTime": 1550587699104,
+            "contentHash": "21786bb6b03d4dfd0fd550fd127583ba387a636e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550587699097,
+            "changeTime": 1550587699097,
+            "contentHash": "bb6b1c5c97653185084ccc863124f33284eb3cd4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\AddBoatReview",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\AddBoatReview",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550587699075,
+            "changeTime": 1550587699075,
+            "contentHash": "fad9196b7939e03b49be685f9a09a43b2e5385d4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\AddBoatReview\\AddBoatReview.cmp",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\AddBoatReview\\AddBoatReview.cmp",
+            "isDirectory": false,
+            "size": 1954,
+            "modifiedTime": 1550587699068,
+            "changeTime": 1550587699068,
+            "contentHash": "e348c52d44140b085d2cd1974a4edc21dd47dda9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\AddBoatReview\\AddBoatReview.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\AddBoatReview\\AddBoatReview.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1550587699072,
+            "changeTime": 1550587699072,
+            "contentHash": "66c56b6df28d0b8678d3ed4a7432be50b1208db3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\AddBoatReview\\AddBoatReviewController.js",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\AddBoatReview\\AddBoatReviewController.js",
+            "isDirectory": false,
+            "size": 1098,
+            "modifiedTime": 1550587699075,
+            "changeTime": 1550587699075,
+            "contentHash": "98994d02c0d0c950112d95efc8a1cf05066465ed",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\AddBoatReview\\AddBoatReviewHelper.js",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\AddBoatReview\\AddBoatReviewHelper.js",
+            "isDirectory": false,
+            "size": 1111,
+            "modifiedTime": 1550587699075,
+            "changeTime": 1550587699075,
+            "contentHash": "e5c127e3e0d4fff3d83b27613561be515622d9ee",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatDetail",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatDetail",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550587699077,
+            "changeTime": 1550587699077,
+            "contentHash": "23ccd3bd9a16d61a11063878f24905d7df83a00c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatDetail\\BoatDetail.cmp",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatDetail\\BoatDetail.cmp",
+            "isDirectory": false,
+            "size": 2580,
+            "modifiedTime": 1550587699076,
+            "changeTime": 1550587699076,
+            "contentHash": "e27da4f017c9e17f61c07b7aa9e532d500f94e36",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatDetail\\BoatDetail.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatDetail\\BoatDetail.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1550587699076,
+            "changeTime": 1550587699076,
+            "contentHash": "66c56b6df28d0b8678d3ed4a7432be50b1208db3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatDetail\\BoatDetail.css",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatDetail\\BoatDetail.css",
+            "isDirectory": false,
+            "size": 306,
+            "modifiedTime": 1550587699076,
+            "changeTime": 1550587699076,
+            "contentHash": "0572504fef276687aae55805188866f2ac031e1c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatDetail\\BoatDetailController.js",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatDetail\\BoatDetailController.js",
+            "isDirectory": false,
+            "size": 259,
+            "modifiedTime": 1550587699077,
+            "changeTime": 1550587699077,
+            "contentHash": "5b4a74be77340c92317406345e57eabc040b3fa5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatDetail\\BoatDetailHelper.js",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatDetail\\BoatDetailHelper.js",
+            "isDirectory": false,
+            "size": 44,
+            "modifiedTime": 1550587699077,
+            "changeTime": 1550587699077,
+            "contentHash": "d0b817b1ed38bbf663e8e0e2f23331837cfca3a4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatDetails",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatDetails",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550587699078,
+            "changeTime": 1550587699078,
+            "contentHash": "526eed82d7ec67ba61196beed3810c24fddec460",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatDetails\\BoatDetails.cmp",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatDetails\\BoatDetails.cmp",
+            "isDirectory": false,
+            "size": 1969,
+            "modifiedTime": 1550587699077,
+            "changeTime": 1550587699077,
+            "contentHash": "d46df39f9216e3f6c0e2342fd959b4883e113d43",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatDetails\\BoatDetails.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatDetails\\BoatDetails.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1550587699078,
+            "changeTime": 1550587699078,
+            "contentHash": "66c56b6df28d0b8678d3ed4a7432be50b1208db3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatDetails\\BoatDetailsController.js",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatDetails\\BoatDetailsController.js",
+            "isDirectory": false,
+            "size": 581,
+            "modifiedTime": 1550587699078,
+            "changeTime": 1550587699078,
+            "contentHash": "f12c88bddf83c12754b74953d9f09086b9bda15c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatReviewAdded",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatReviewAdded",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550587699079,
+            "changeTime": 1550587699079,
+            "contentHash": "3ef344c917328adcfe821904b9d615aa1e381940",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatReviewAdded\\BoatReviewAdded.evt",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatReviewAdded\\BoatReviewAdded.evt",
+            "isDirectory": false,
+            "size": 31,
+            "modifiedTime": 1550587699079,
+            "changeTime": 1550587699079,
+            "contentHash": "a35709e13e79f4819867c59f26c79ff453f0dc0b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatReviewAdded\\BoatReviewAdded.evt-meta.xml",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatReviewAdded\\BoatReviewAdded.evt-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1550587699079,
+            "changeTime": 1550587699079,
+            "contentHash": "66c56b6df28d0b8678d3ed4a7432be50b1208db3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatReviews",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatReviews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550587699080,
+            "changeTime": 1550587699080,
+            "contentHash": "847437020faec0c808aaf30e119c5878ff1a202d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatReviews\\BoatReviews.cmp",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatReviews\\BoatReviews.cmp",
+            "isDirectory": false,
+            "size": 3116,
+            "modifiedTime": 1550587699079,
+            "changeTime": 1550587699079,
+            "contentHash": "67bd3473ee33ed6f80ff6f4a8176994c3a908143",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatReviews\\BoatReviews.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatReviews\\BoatReviews.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1550587699080,
+            "changeTime": 1550587699080,
+            "contentHash": "66c56b6df28d0b8678d3ed4a7432be50b1208db3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatReviews\\BoatReviews.css",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatReviews\\BoatReviews.css",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1550587699080,
+            "changeTime": 1550587699080,
+            "contentHash": "48111ab4e46e63046250b031e6f2ae9e99e6522b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatReviews\\BoatReviewsController.js",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatReviews\\BoatReviewsController.js",
+            "isDirectory": false,
+            "size": 405,
+            "modifiedTime": 1550587699080,
+            "changeTime": 1550587699080,
+            "contentHash": "186eb050da566fe270f9bd4cae291d402031af17",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatReviews\\BoatReviewsHelper.js",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatReviews\\BoatReviewsHelper.js",
+            "isDirectory": false,
+            "size": 367,
+            "modifiedTime": 1550587699081,
+            "changeTime": 1550587699081,
+            "contentHash": "356979b08c872e017ad607eadb3e25cef62c037e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSearch",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSearch",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550587699081,
+            "changeTime": 1550587699081,
+            "contentHash": "20a8991ffa0671a834038c735abc53bb1db0b67a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSearch\\BoatSearch.cmp",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSearch\\BoatSearch.cmp",
+            "isDirectory": false,
+            "size": 394,
+            "modifiedTime": 1550587699081,
+            "changeTime": 1550587699081,
+            "contentHash": "f441e47cb1fdb03b0f8fa1e4f5db08104d1fd202",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSearch\\BoatSearch.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSearch\\BoatSearch.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1550587699081,
+            "changeTime": 1550587699081,
+            "contentHash": "66c56b6df28d0b8678d3ed4a7432be50b1208db3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSearch\\BoatSearchController.js",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSearch\\BoatSearchController.js",
+            "isDirectory": false,
+            "size": 284,
+            "modifiedTime": 1550587699081,
+            "changeTime": 1550587699081,
+            "contentHash": "ca2327be9b9114793348e42e64986171df9e01bc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSearchForm",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSearchForm",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550587699082,
+            "changeTime": 1550587699082,
+            "contentHash": "0e3d62837fc451cf2a62b6c8dd48f80dfaf45471",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSearchForm\\BoatSearchForm.cmp",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSearchForm\\BoatSearchForm.cmp",
+            "isDirectory": false,
+            "size": 1820,
+            "modifiedTime": 1550587699082,
+            "changeTime": 1550587699082,
+            "contentHash": "0e056ab4063e1612778d3f6e082f67b7ed62e956",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSearchForm\\BoatSearchForm.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSearchForm\\BoatSearchForm.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1550587699082,
+            "changeTime": 1550587699082,
+            "contentHash": "66c56b6df28d0b8678d3ed4a7432be50b1208db3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSearchForm\\BoatSearchFormController.js",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSearchForm\\BoatSearchFormController.js",
+            "isDirectory": false,
+            "size": 2167,
+            "modifiedTime": 1550587699082,
+            "changeTime": 1550587699082,
+            "contentHash": "1c493e43fb278905f1a62aa62aa89db142e63dff",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSearchResults",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSearchResults",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550587699084,
+            "changeTime": 1550587699084,
+            "contentHash": "2fde1cd09b29242f25ef33adc47ac5bdbe7f7bc1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSearchResults\\BoatSearchResults.cmp",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSearchResults\\BoatSearchResults.cmp",
+            "isDirectory": false,
+            "size": 1375,
+            "modifiedTime": 1550587699083,
+            "changeTime": 1550587699083,
+            "contentHash": "aa3baf9c1b9f0dd159688e0a4f13c979768c4bca",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSearchResults\\BoatSearchResults.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSearchResults\\BoatSearchResults.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1550587699083,
+            "changeTime": 1550587699083,
+            "contentHash": "66c56b6df28d0b8678d3ed4a7432be50b1208db3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSearchResults\\BoatSearchResultsController.js",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSearchResults\\BoatSearchResultsController.js",
+            "isDirectory": false,
+            "size": 265,
+            "modifiedTime": 1550587699084,
+            "changeTime": 1550587699084,
+            "contentHash": "2ecc388d06c525aaa60b90b8b636d7e1c2ac04d2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSearchResults\\BoatSearchResultsHelper.js",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSearchResults\\BoatSearchResultsHelper.js",
+            "isDirectory": false,
+            "size": 502,
+            "modifiedTime": 1550587699084,
+            "changeTime": 1550587699084,
+            "contentHash": "a0da80b413fc5a5d73547925e6b4d497b43621cf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSelect",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSelect",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550587699084,
+            "changeTime": 1550587699084,
+            "contentHash": "9c821fdfe80734bf39815f588d70600203606d53",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSelect\\BoatSelect.evt",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSelect\\BoatSelect.evt",
+            "isDirectory": false,
+            "size": 120,
+            "modifiedTime": 1550587699084,
+            "changeTime": 1550587699084,
+            "contentHash": "f614f1256d3c5f95bce900d40a5d563405c1bad4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSelect\\BoatSelect.evt-meta.xml",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSelect\\BoatSelect.evt-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1550587699085,
+            "changeTime": 1550587699085,
+            "contentHash": "66c56b6df28d0b8678d3ed4a7432be50b1208db3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSelected",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSelected",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550587699088,
+            "changeTime": 1550587699088,
+            "contentHash": "835d9a54ead9919430d6cd40a20f822ec2b5e1d5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSelected\\BoatSelected.evt",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSelected\\BoatSelected.evt",
+            "isDirectory": false,
+            "size": 96,
+            "modifiedTime": 1550587699088,
+            "changeTime": 1550587699088,
+            "contentHash": "11600cb2ff4d341eef887d604bff7b446c599cba",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSelected\\BoatSelected.evt-meta.xml",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatSelected\\BoatSelected.evt-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1550587699089,
+            "changeTime": 1550587699089,
+            "contentHash": "66c56b6df28d0b8678d3ed4a7432be50b1208db3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatTile",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatTile",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550587699092,
+            "changeTime": 1550587699092,
+            "contentHash": "3a9c4d896aa6266bbb1bbf3c0302cf6ce539924d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatTile\\BoatTile.cmp",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatTile\\BoatTile.cmp",
+            "isDirectory": false,
+            "size": 877,
+            "modifiedTime": 1550587699091,
+            "changeTime": 1550587699091,
+            "contentHash": "d8fc0f26151593ee58c89ab2b41fcdae51015d89",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatTile\\BoatTile.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatTile\\BoatTile.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1550587699091,
+            "changeTime": 1550587699091,
+            "contentHash": "66c56b6df28d0b8678d3ed4a7432be50b1208db3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatTile\\BoatTile.css",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatTile\\BoatTile.css",
+            "isDirectory": false,
+            "size": 538,
+            "modifiedTime": 1550587699092,
+            "changeTime": 1550587699092,
+            "contentHash": "12d3932675d8d08cfcba117f201e497cfae7a050",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatTile\\BoatTileController.js",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\BoatTile\\BoatTileController.js",
+            "isDirectory": false,
+            "size": 850,
+            "modifiedTime": 1550587699092,
+            "changeTime": 1550587699092,
+            "contentHash": "c73d12f538276d42cbdace25a7c9c53a16f24867",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\FiveStarRating",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\FiveStarRating",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550587699093,
+            "changeTime": 1550587699093,
+            "contentHash": "bafd6a324459c64dfdaa646bb8365c12c87cecab",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\FiveStarRating\\FiveStarRating.cmp",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\FiveStarRating\\FiveStarRating.cmp",
+            "isDirectory": false,
+            "size": 582,
+            "modifiedTime": 1550587699093,
+            "changeTime": 1550587699093,
+            "contentHash": "de35b08a0eb5cf00068c18a020c6790e0ca18f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\FiveStarRating\\FiveStarRating.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\FiveStarRating\\FiveStarRating.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1550587699093,
+            "changeTime": 1550587699093,
+            "contentHash": "66c56b6df28d0b8678d3ed4a7432be50b1208db3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\FiveStarRating\\FiveStarRatingController.js",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\FiveStarRating\\FiveStarRatingController.js",
+            "isDirectory": false,
+            "size": 767,
+            "modifiedTime": 1550587699093,
+            "changeTime": 1550587699093,
+            "contentHash": "bba492876ecedbeb52524e14a89f902a077f5d98",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\FormSubmit",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\FormSubmit",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550587699094,
+            "changeTime": 1550587699094,
+            "contentHash": "8faf873dc14663cffdd0edabf164dc59c5952579",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\FormSubmit\\FormSubmit.evt",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\FormSubmit\\FormSubmit.evt",
+            "isDirectory": false,
+            "size": 166,
+            "modifiedTime": 1550587699094,
+            "changeTime": 1550587699094,
+            "contentHash": "e3741f896df5fb2931d47f69e4d769d4d392ef2a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\FormSubmit\\FormSubmit.evt-meta.xml",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\FormSubmit\\FormSubmit.evt-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1550587699094,
+            "changeTime": 1550587699094,
+            "contentHash": "66c56b6df28d0b8678d3ed4a7432be50b1208db3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\FriendsWithBoats",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\FriendsWithBoats",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550587699094,
+            "changeTime": 1550587699094,
+            "contentHash": "969c913551737a514468813cf23a192cc83479ca",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\FriendsWithBoats\\FriendsWithBoats.app",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\FriendsWithBoats\\FriendsWithBoats.app",
+            "isDirectory": false,
+            "size": 423,
+            "modifiedTime": 1550587699094,
+            "changeTime": 1550587699094,
+            "contentHash": "61f78c403444f3dc2d27c83225c477ab32a80b3d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\FriendsWithBoats\\FriendsWithBoats.app-meta.xml",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\FriendsWithBoats\\FriendsWithBoats.app-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1550587699094,
+            "changeTime": 1550587699094,
+            "contentHash": "66c56b6df28d0b8678d3ed4a7432be50b1208db3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\Map",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\Map",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550587699097,
+            "changeTime": 1550587699097,
+            "contentHash": "f02faf7ade01272b302db72c7651d02c524c8998",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\Map\\Map.cmp",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\Map\\Map.cmp",
+            "isDirectory": false,
+            "size": 964,
+            "modifiedTime": 1550587699095,
+            "changeTime": 1550587699095,
+            "contentHash": "3c14b716ba2af72885a52a123959e638ddebe0b4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\Map\\Map.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\Map\\Map.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1550587699095,
+            "changeTime": 1550587699095,
+            "contentHash": "7a2ed7f70ffedea98efcd3a83042bcb89b27ee2f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\Map\\Map.css",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\Map\\Map.css",
+            "isDirectory": false,
+            "size": 47,
+            "modifiedTime": 1550587699095,
+            "changeTime": 1550587699095,
+            "contentHash": "b1b6005827704c9a05ab41b3e9d420a2e62937a7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\Map\\Map.design",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\Map\\Map.design",
+            "isDirectory": false,
+            "size": 130,
+            "modifiedTime": 1550587699096,
+            "changeTime": 1550587699096,
+            "contentHash": "f93cf1ad47e447cdd80852c4f7e21172d12a9c7f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\Map\\Map.svg",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\Map\\Map.svg",
+            "isDirectory": false,
+            "size": 3006,
+            "modifiedTime": 1550587699096,
+            "changeTime": 1550587699096,
+            "contentHash": "bc3c65aa6eab80d15962f71804c641e49de576f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\Map\\MapController.js",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\Map\\MapController.js",
+            "isDirectory": false,
+            "size": 424,
+            "modifiedTime": 1550587699096,
+            "changeTime": 1550587699096,
+            "contentHash": "1f0a8f096a44e7d7bd768730820a5d47c3bcc42f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\Map\\MapHelper.js",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\Map\\MapHelper.js",
+            "isDirectory": false,
+            "size": 548,
+            "modifiedTime": 1550587699096,
+            "changeTime": 1550587699096,
+            "contentHash": "14c1d2fa3d218be6dfb91eebb72a68bc51f33037",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\Map\\MapRenderer.js",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\Map\\MapRenderer.js",
+            "isDirectory": false,
+            "size": 1503,
+            "modifiedTime": 1550587699097,
+            "changeTime": 1550587699097,
+            "contentHash": "f2ec73e91b4445915491257157b0e558f02ed602",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\PlotMapMarker",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\PlotMapMarker",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550587699097,
+            "changeTime": 1550587699097,
+            "contentHash": "e2427331c77818f0321c24cce2960d246f9a6c77",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\PlotMapMarker\\PlotMapMarker.evt",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\PlotMapMarker\\PlotMapMarker.evt",
+            "isDirectory": false,
+            "size": 263,
+            "modifiedTime": 1550587699097,
+            "changeTime": 1550587699097,
+            "contentHash": "a2e121c379211bce0921e26af782f95669e6b156",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\PlotMapMarker\\PlotMapMarker.evt-meta.xml",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\aura\\PlotMapMarker\\PlotMapMarker.evt-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1550587699097,
+            "changeTime": 1550587699097,
+            "contentHash": "66c56b6df28d0b8678d3ed4a7432be50b1208db3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550587699099,
+            "changeTime": 1550587699099,
+            "contentHash": "61728acfca529841353b1d118f785eaf3d274fe3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\classes\\BoatReviews.cls",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\classes\\BoatReviews.cls",
+            "isDirectory": false,
+            "size": 914,
+            "modifiedTime": 1550587699098,
+            "changeTime": 1550587699098,
+            "contentHash": "8593ed9a9341cb20f7061ec5b90c318e4c38e257",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\classes\\BoatReviews.cls-meta.xml",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\classes\\BoatReviews.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1550587699098,
+            "changeTime": 1550587699098,
+            "contentHash": "f0c9627cd0220709bf02236237476639a24192df",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\classes\\BoatSearchFormBackController.cls",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\classes\\BoatSearchFormBackController.cls",
+            "isDirectory": false,
+            "size": 262,
+            "modifiedTime": 1550587699098,
+            "changeTime": 1550587699098,
+            "contentHash": "589cd63e22cdd74379466776a7431cd95e16288d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\classes\\BoatSearchFormBackController.cls-meta.xml",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\classes\\BoatSearchFormBackController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1550587699098,
+            "changeTime": 1550587699098,
+            "contentHash": "f0c9627cd0220709bf02236237476639a24192df",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\classes\\BoatSearchResults.cls",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\classes\\BoatSearchResults.cls",
+            "isDirectory": false,
+            "size": 649,
+            "modifiedTime": 1550587699099,
+            "changeTime": 1550587699099,
+            "contentHash": "3273938616ce42e08e1bdec2bc1d88d6c2351719",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\classes\\BoatSearchResults.cls-meta.xml",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\classes\\BoatSearchResults.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1550587699099,
+            "changeTime": 1550587699099,
+            "contentHash": "f0c9627cd0220709bf02236237476639a24192df",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550587699099,
+            "changeTime": 1550587699099,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550587699101,
+            "changeTime": 1550587699101,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 19856,
+            "modifiedTime": 1550587699100,
+            "changeTime": 1550587699100,
+            "contentHash": "ee97ec0115e1487d00efc778504d8575f6f84bee",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5236,
+            "modifiedTime": 1550587699100,
+            "changeTime": 1550587699100,
+            "contentHash": "603d7d685472cb2c477108e5ec3d5f075a354f63",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5236,
+            "modifiedTime": 1550587699101,
+            "changeTime": 1550587699101,
+            "contentHash": "603d7d685472cb2c477108e5ec3d5f075a354f63",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5586,
+            "modifiedTime": 1550587699101,
+            "changeTime": 1550587699101,
+            "contentHash": "d45a4f1c26683acac462133e62ca0ebfc709bb07",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\settings",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\settings",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550587699102,
+            "changeTime": 1550587699102,
+            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+            "isDirectory": false,
+            "size": 6570,
+            "modifiedTime": 1550587699103,
+            "changeTime": 1550587699103,
+            "contentHash": "b124325d9b44a8cc8f341b139573c40b32d482d7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550587699107,
+            "changeTime": 1550587699107,
+            "contentHash": "09e097fe095266db443c6933e9568f49f4ff90cc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\tabs\\BoatReview__c.tab-meta.xml",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\tabs\\BoatReview__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1550587699106,
+            "changeTime": 1550587699106,
+            "contentHash": "7f56b41b4e2dc79f779b44188c079902a12da1f0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\tabs\\Friends_with_Boats.tab-meta.xml",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2\\force-app\\main\\default\\tabs\\Friends_with_Boats.tab-meta.xml",
+            "isDirectory": false,
+            "size": 275,
+            "modifiedTime": 1550587699107,
+            "changeTime": 1550587699107,
+            "contentHash": "526e089ba34888f7db76e67f16c2af1ce5ccc509",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\testhub11build\\testsfdx2\\testsfdx2",
+        {
+            "sourcePath": "D:\\testhub11build\\testsfdx2\\testsfdx2",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550587699108,
+            "changeTime": 1550587699108,
+            "contentHash": "7d77e01dff50f16877ce1d7890fd2233002b07db",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
